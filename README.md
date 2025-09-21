@@ -594,13 +594,9 @@ grid-template-columns: 1fr;
 <div class="contact-item">
 <h3>📧 Email</h3>
 <p>aediaz504@gmail.com</p>
-</div>
 <div class="notice">
 <h3>⏰ Important Notice</h3>
 <p>Please place orders at least 4-7 days in advance to ensure we can create the perfect arrangement for your special occasion.</p>
-</div>
-</div>
-</section>
 
 <footer class="footer">
 <p>&copy; 2024 Ashlie's Floral Creations. All rights reserved. | Specializing in Eternal & Natural Floral Arrangements</p>
