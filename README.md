@@ -1,5 +1,4 @@
 # ashlies floral creations website
-<!DOCTYPE html>
 
 <html lang="en">
 <head>
