@@ -587,18 +587,14 @@ grid-template-columns: 1fr;
 <div class="contact-container">
 <h2>Get in Touch</h2>
 <p>Ready to create something beautiful? Contact us to discuss your floral needs.</p>
-
 <div class="contact-info">
 <div class="contact-item">
 <h3>📞 Phone</h3>
 <p>(703) 867-4023</p>
-</div>
 <div class="contact-item">
 <h3>📧 Email</h3>
 <p>aediaz504@gmail.com</p>
 </div>
-</div>
-
 <div class="notice">
 <h3>⏰ Important Notice</h3>
 <p>Please place orders at least 4-7 days in advance to ensure we can create the perfect arrangement for your special occasion.</p>
